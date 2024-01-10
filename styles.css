@@ -67,10 +67,14 @@ ul li {
 
 h2 {
     color: #333;
-    border-bottom: 2px solid #333;
-    padding-bottom: 5px;
+    background-color: #ddd;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 h4 {
     color: #4caf50;
+    background-color: #ddd;
+    padding: 5px;
+    border-radius: 5px;
 }
