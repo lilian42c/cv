@@ -6,8 +6,8 @@ body {
 
 header {
     text-align: center;
-    background-color: #EEE110;
-    color: #000;
+    background-color: #F4E604;
+    color: #fff;
     padding: 20px;
     border-radius: 8px;
 }
@@ -19,12 +19,12 @@ h1 {
 
 p {
     margin-top: 5px;
-    color: #000;
+    color: #fff;
 }
 
 section {
     margin-top: 20px;
-    background-color: #000;
+    background-color: #fff;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -36,7 +36,7 @@ section {
 
 h3 {
     margin: 5px 0;
-    color: #000;
+    color: #333;
 }
 
 ul {
@@ -66,14 +66,14 @@ ul li {
 }
 
 h2 {
-    color: #000;
+    color: #333;
     background-color: #ddd;
     padding: 10px;
     border-radius: 8px;
 }
 
 h4 {
-    color: #000;
+    color: #4caf50;
     background-color: #ddd;
     padding: 5px;
     border-radius: 5px;
